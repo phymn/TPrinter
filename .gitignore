@@ -1,0 +1,11 @@
+*.zip
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.webp
+photo_sources*.json
+contact-sheet*
+unzipped/
+__pycache__/
+.DS_Store
